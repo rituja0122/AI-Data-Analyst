@@ -21,8 +21,9 @@ This app automates that entire workflow. Upload any CSV or Excel file, and it wi
 🔗 [Try the live app here](https://ai-data-analyst-bhrvpqsq64dqfjoyyvztuq.streamlit.app)
 
 ## Screenshots
-
-*(Add screenshots of the app here — dashboard preview, charts, and generated report)*
+<img width="1811" height="735" alt="image" src="https://github.com/user-attachments/assets/e47ad0f1-e529-4992-a6d3-022c270166e2" />
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 ## Tech Stack
 
