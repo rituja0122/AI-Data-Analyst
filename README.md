@@ -22,8 +22,8 @@ This app automates that entire workflow. Upload any CSV or Excel file, and it wi
 
 ## Screenshots
 <img width="1811" height="735" alt="image" src="https://github.com/user-attachments/assets/e47ad0f1-e529-4992-a6d3-022c270166e2" />
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1797" height="670" alt="image" src="https://github.com/user-attachments/assets/38291a44-2c54-455e-aa09-ffb447fac699" />
+<img width="1775" height="735" alt="image" src="https://github.com/user-attachments/assets/ccd907f1-a598-4c26-9b73-bd08f0548f96" />
 
 ## Tech Stack
 
@@ -112,4 +112,4 @@ The tool is dataset-agnostic — it will work with any tabular CSV or Excel file
 
 ## Author
 
-Built by Ritu as part of a hands-on Data Analytics portfolio, focused on Python, SQL, and dashboarding skills.
+Built by Rituja kine as part of a hands-on Data Analytics portfolio, focused on Python, SQL, and dashboarding skills.
