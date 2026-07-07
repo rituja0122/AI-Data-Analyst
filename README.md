@@ -44,29 +44,5 @@ This structure keeps things organized: statistical logic, chart-building, and AI
 ## Dataset Used
 This project was tested using the **IBM HR Analytics Employee Attrition & Performance** dataset from Kaggle, which contains employee-level data including department, job level, tenure, salary, performance ratings, and attrition status.
 
-## Running This Project Locally
-1. Clone this repository:
-   ```
-   git clone https://github.com/rituja0122/AI-Data-Analyst.git
-   cd AI-Data-Analyst
-   ```
-
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Create a `.env` file in the project root and add your free Gemini API key (get one at [aistudio.google.com](https://aistudio.google.com/app/apikey)):
-   ```
-   GEMINI_API_KEY=your_key_here
-   ```
-
-4. Run the app:
-   ```
-   streamlit run app.py
-   ```
-
-5. Open the local URL shown in the terminal (usually `http://localhost:8501`) and upload a CSV or Excel file to get started.
-
 ## Author
 Built by Rituja kine as part of a hands-on Data Analytics portfolio, focused on Python, SQL, and dashboarding skills.
